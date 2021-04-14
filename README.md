@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @namuHlaeR
 - 👀 I’m interested in Front-End deveopment
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Web design pojects nd mobile app UI
+- 💞️ I’m looking to collaborate on Web design pojects and mobile app UI
 - 📫 How to reach me namuhlaer@gmail.com
 
 <!---
