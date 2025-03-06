@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @namuHlaeR
-- 👀 I’m interested in Front-End deveopment
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Web design pojects and mobile app UI
-- 📫 How to reach me namuhlaer@gmail.com
+- 👀 I’m interested in dashboard/CRM/E-com development
+- 🌱 I’m currently riding on Next.js
+- 💞️ I’m looking to collaborate on Web design projects and mobile app UI
+- 📫 How to reach me emils@bitterpillsagency.com
 
 <!---
 namuHlaeR/namuHlaeR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
